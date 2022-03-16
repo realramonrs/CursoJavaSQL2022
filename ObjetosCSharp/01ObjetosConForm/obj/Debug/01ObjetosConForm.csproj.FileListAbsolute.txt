@@ -1,0 +1,10 @@
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\bin\Debug\01ObjetosConForm.exe.config
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\bin\Debug\01ObjetosConForm.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\bin\Debug\01ObjetosConForm.pdb
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\01ObjetosConForm.csprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\_01ObjetosConForm.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\_01ObjetosConForm.Properties.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\01ObjetosConForm.csproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\01ObjetosConForm.csproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\01ObjetosConForm.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\01ObjetosConForm\obj\Debug\01ObjetosConForm.pdb

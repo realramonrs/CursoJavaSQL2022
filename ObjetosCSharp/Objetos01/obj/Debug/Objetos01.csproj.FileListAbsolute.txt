@@ -1,0 +1,7 @@
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\bin\Debug\Objetos01.exe.config
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\bin\Debug\Objetos01.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\bin\Debug\Objetos01.pdb
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\obj\Debug\Objetos01.csprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\obj\Debug\Objetos01.csproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\obj\Debug\Objetos01.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaSQL2022\ObjetosCSharp\Objetos01\obj\Debug\Objetos01.pdb
