@@ -4,7 +4,12 @@ public class MisMetodos {
 
 	//Método que devuelve la suma de dos números enteros
 	
-	public static int sumaDosNumeros(int x1,int x2) {
+	static int sumaDosNumeros(int x1,int x2) {
+		return x1 + x2;
+	}
+	
+	//Sobrecargar método sumaDosNumeros
+	static double sumaDosNumeros(double x1,double x2) {
 		return x1 + x2;
 	}
 	

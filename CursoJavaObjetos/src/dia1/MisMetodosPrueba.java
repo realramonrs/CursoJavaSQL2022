@@ -9,6 +9,7 @@ public class MisMetodosPrueba {
 		int resultado = MisMetodos.sumaDosNumeros(12, 34);
 		int a=9,b=12;
 		
+		
 		resultado = MisMetodos.sumaDosNumeros(a, b);
 		
 		//Probando el método getPosicion
